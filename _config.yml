@@ -1,0 +1,28 @@
+name: aaronsturgis
+favicon: null
+layout_spectrum: 0.6180719719268382
+typography_spectrum: 0.9261540221050382
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6648856117390096
+  lightness: 0.44996154634281993
+  saturation: 0.1431548586115241
+  rhythmicContrast: 0.7720306243281811
+purpose: []
